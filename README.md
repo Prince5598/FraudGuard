@@ -52,7 +52,7 @@ npm install
 - Place the downloaded file (e.g., `fraudTrain.csv`) inside the `ML/` directory.
 
 **🔗 Dataset Download Link:**  
-`[https://drive.google.com/fraud-dataset](https://drive.google.com/file/d/17FVZaK8wDXs5xU7zSD-0j_qYKx8e-eyP/view?usp=sharing)`
+[https://drive.google.com/fraud-dataset](https://drive.google.com/file/d/17FVZaK8wDXs5xU7zSD-0j_qYKx8e-eyP/view?usp=sharing)
 
 ---
 
